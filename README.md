@@ -1,5 +1,5 @@
 ## Hi, I'm Bettina!👋
-I'm a Chemical Engineering Student at ETH Zurich in Switzerland.
+I'm a chemical engineering student at ETH Zurich in Switzerland.
 <!--
 **bettinita/bettinita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
